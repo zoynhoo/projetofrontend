@@ -11,13 +11,12 @@ body {
   color:#e6eef6;
   margin:0;
   
-  /* CÓDIGO A SER ADICIONADO ABAIXO */
-  background-image: url('https://i.imgur.com/LmMP6aq.png'); /* URL da imagem de academia desfocada */
+  
+  background-image: url('https://i.imgur.com/LmMP6aq.png'); 
   background-size: cover; 
   background-attachment: fixed;
   background-position: center; 
   background-repeat: no-repeat;
-  /* FIM DO CÓDIGO A SER ADICIONADO */
   
   line-height:1.45;
 }
@@ -77,4 +76,5 @@ footer { text-align:center; color:var(--muted); margin-top:24px }
   .hero { grid-template-columns:1fr }
   .company-image { height:180px }
 }
+
 
